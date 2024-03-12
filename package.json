@@ -1,6 +1,6 @@
 {
-  "name": "formation",
-  "version": "1.0.0",
+  "name": "0xforamt_util",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
